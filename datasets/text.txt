@@ -1,0 +1,17 @@
+“Geleceğin Gücü” başlıklı yazı dizimizde Sabancı Üniversitesi’nin profesyonellere yönelik sunduğu tezsiz yüksek lisans programlarını tanımayı sürdürüyoruz. Bilişim Teknolojileri Tezsiz Yüksek Lisans Programımızın Akademik Direktörü H. Sait Ölmez ile programın sunduğu imkanları konuştuk.
+
+Programla ilgili biraz bilgi verebilir misiniz? Ne zaman açıldı?  Özellikle kimlere hitap ediyor? 
+
+2002 yılında açılan programımız, bilişim teknolojilerindeki yetişmiş eleman açığına cevap vermek üzere ve tamamen bu konudaki endüstri ihtiyaçları referans alınarak tasarlandı. Program, ana hedefi yazılım geliştirici (software developer) yetiştirmektir. Ancak eğitim programındaki seçmeli derslerin zenginliği katılımcılara yazılım sınama, ağ tasarım ve güvenliği, veri tabanı uygulamaları, ara yüz (UX) tasarımı ve veri bilimi gibi konularda da uzmanlık fırsatı tanımaktadır.
+
+Program içerikleri nasıl belirleniyor, her yıl değişiklik yapılıyor mu?
+
+Akademik yıl başlamadan önce program kurulu yazılım ve IT endüstrisindeki trendleri, gelişmeleri ve yakın zamanda istihdam ihtiyacı ortaya çıkması beklenen alanları değerlendirerek ya müfredata yeni dersler ekliyor ya da mevcut derslerin içerik ve kapsamlarında revizyonlar gerçekleştiriyor.
+
+Program sektörün özellikle hangi ihtiyacına yanıt veriyor? Bu kapsamda gelecekte en çok ihtiyaç duyulacak yetkinlikleri ve bunu karşılamak üzere neler yapılması gerektiğini anlatır mısınız?  
+
+Program, her tür endüstride tüm kurumların yazılım geliştirme, iş analizi, yazılım sınama, ağ tasarımı ve güvenliği, veri tabanı uygulamaları gibi alanlarda IT operasyonlarını yürütmek üzere ihtiyaç duyduğu mesleki profilleri katılımcılarına kazandırmaya çalışıyor.
+
+Mezunlarınızla ilgili bilgi verir misiniz? Programı bitiren öğrencilerinizin kariyerlerinde ne gibi farklılıklar oluyor?
+
+BT Programı mezunlarının bir çoğunluğu hiçbir programlama dili bilmedikleri halde programa kayıt olup henüz eğitimleri tamamlanmadan Türkiye’nin kendi endüstrisinde bilinen kurumlarında yazılım geliştirici olarak iş bulabiliyorlar. 2002’den bu yana eğitim veren bu yüksek lisans programında en sık ve memnuniyetle gözlemlediğimiz sonuçlardan birisi bu. msit.sabanciuniv.edu sayfamızdan mezun görüşlerinde buna söylediğim türde örneklerin bir kısmını ve genel olarak katılımcıların programla ilgili düşüncelerini inceleyebilirsiniz.

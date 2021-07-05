@@ -1,0 +1,9 @@
+movieid,moviename
+1,Lethal Weapon
+2,The Last Ship
+3,Person of Interest
+4,Game of Thrones
+5,Flashforward
+6,Revolution
+7,Lost
+8,Leyle ile Mecnun
