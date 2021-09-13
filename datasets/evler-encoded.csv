@@ -1,0 +1,12 @@
+﻿Sehir;Oda;salon ;fiyat;izmir;istanbul;ankara;
+izmir;3;1;500000;1;0;0;
+istanbul;3;1;800000;0;1;0;OneHotEncoding
+ankara;3;1;600000;0;0;1;
+izmir;2;1;300000;1;0;0;
+istanbul;2;1;450000;0;1;0;
+istanbul;1;1;250000;0;1;0;
+ankara;2;1;380000;0;0;1;
+izmir;1;1;220000;1;0;0;
+istanbul;1;1;245000;0;1;0;
+;;;;;;;
+;;;;n tane değişik şehir varsa n-1 tane kolon eklenerek encode edilir;;;
